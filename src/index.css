@@ -27,3 +27,14 @@ code {
   text-decoration: none;
   color: #fff;
 }
+.searchForm{
+margin: auto;
+padding: 15px;
+max-width: 550px;
+align-content: center;
+}
+.latest-title{
+  color: black;
+  font-weight: 600;
+  font-family: monospace;
+}
